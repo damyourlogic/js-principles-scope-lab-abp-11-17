@@ -6,3 +6,6 @@ function upperCaseCustomerName(){
 function setBestCustomer(){
   bestCustomer = 'not bob'
 }
+overwriteBestCustomer(){
+  return bestCustomer = 'maybe bob'
+}
