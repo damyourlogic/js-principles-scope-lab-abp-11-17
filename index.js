@@ -13,6 +13,7 @@ const leastFavoriteCustomer = 'bobberino'
 function changeLeastFavoriteCustomer(){
   return leastFavoriteCustomer = 'sally'
 }
+let favoriteCustomer = 'kevin'
 function attemptTwoFavoriteCustomers(){
-  return favoriteCustomer = 'kevin'
+  return favoriteCustomer = 'z'
 }
